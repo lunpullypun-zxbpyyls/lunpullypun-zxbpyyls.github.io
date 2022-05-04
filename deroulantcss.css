@@ -83,6 +83,11 @@ body
 	font-family: arial;
 	text-align: center;
 }
+#sig
+{
+    position: relative;
+    top: 20px;
+}
 .paragraph
 {
 	font-family: arial;
